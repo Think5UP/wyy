@@ -1,0 +1,103 @@
+QWidget#personForm {
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+}
+
+QWidget#widget {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid rgb(228, 232, 236);
+}
+
+QWidget#widget_2 {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid rgb(228, 232, 236);
+}
+
+QWidget#widget_3 {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid rgb(228, 232, 236);
+}
+
+QPushButton#btn_vipInfo {
+    border: none;
+    padding-left: 20px;
+    color: rgb(147, 153, 166);
+
+}
+
+QPushButton#btn_vipInfo:hover {
+    background-color: rgb(242, 243, 244);
+}
+
+QPushButton#btn_levelInfo {
+    border: none;
+    padding-left: 20px;
+    color: rgb(147, 153, 166);
+
+}
+
+QPushButton#btn_levelInfo:hover {
+    background-color: rgb(242, 243, 244);
+}
+
+
+QPushButton#btn_store {
+    border: none;
+    padding-left: 20px;
+    color: rgb(147, 153, 166);
+
+}
+
+QPushButton#btn_store:hover {
+    background-color: rgb(242, 243, 244);
+}
+
+QPushButton#btn_personInfo {
+    border: none;
+    padding-left: 20px;
+    color: rgb(147, 153, 166);
+
+}
+
+QPushButton#btn_personInfo:hover {
+    background-color: rgb(242, 243, 244);
+}
+
+QPushButton#btn_bind {
+    border: none;
+    padding-left: 20px;
+    color: rgb(147, 153, 166);
+
+}
+
+QPushButton#btn_bind:hover {
+    background-color: rgb(242, 243, 244);
+}
+
+QPushButton#btn_service {
+    border: none;
+    padding-left: 20px;
+    color: rgb(147, 153, 166);
+
+}
+
+QPushButton#btn_service:hover {
+    background-color: rgb(242, 243, 244);
+}
+
+QPushButton#btn_logout {
+    border: none;
+    padding-left: 20px;
+    color: rgb(147, 153, 166);
+
+}
+
+QPushButton#btn_logout:hover {
+    background-color: rgb(242, 243, 244);
+}
